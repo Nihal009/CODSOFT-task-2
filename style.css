@@ -1,4 +1,4 @@
-/* Reset some default styles */
+
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
@@ -6,20 +6,20 @@ body, h1, h2, h3, p {
 
 }
 
-/* Apply a background color to the body */
+
 body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
 }
 
-/* Create a container to center content and add some spacing */
+
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
-/* Style for the header section */
+
 header {
     background-color: #000;
     color: #fff;
@@ -35,7 +35,7 @@ header {
     display: block;
 }
 
-/* Style for the projects section */
+
 .projects {
     background-color: #fff;
     padding: 20px 0;
@@ -80,9 +80,9 @@ header {
 .project a:hover {
     background-color: #0056b3;
 }
-/* ... (previous CSS styles) ... */
 
-/* Style for the icon section */
+
+
 .icon-section {
     background-color: flightslategrayff;
     padding: 20px 0;
@@ -96,9 +96,9 @@ header {
 }
 
 .icon-container img {
-    width: 50px; /* Adjust the icon size */
-    height: 50px; /* Adjust the icon size */
-    margin-right: 20px; /* Add spacing between icons */
+    width: 50px; 
+    height: 50px; 
+    margin-right: 20px; 
 }
 .projects{
     background-color: #0d0702;
