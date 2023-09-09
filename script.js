@@ -1,6 +1,4 @@
-// script.js
 
-// Function to check if an element is in the viewport
 function isInViewport(element) {
     const rect = element.getBoundingClientRect();
     return (
@@ -20,5 +18,4 @@ function handleIconAnimation() {
     }
 }
 
-// Add a scroll event listener to trigger the animation when scrolled
 window.addEventListener('scroll', handleIconAnimation);
